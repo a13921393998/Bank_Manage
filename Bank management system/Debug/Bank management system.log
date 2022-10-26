@@ -1,0 +1,3 @@
+﻿  Bank management system.cpp
+E:\C++ Project\Bank management system\Bank management system.cpp(4,10): warning C4101: “s”: 未引用的局部变量
+  Bank management system.vcxproj -> E:\C++ Project\Bank management system\Debug\Bank management system.exe
